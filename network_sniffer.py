@@ -1,7 +1,7 @@
 #!/usr/bin/env python3
 """
 ========================================================
-  CodeAlpha Internship — Task 1: Basic Network Sniffer
+  Basic Network Sniffer
   Author  : Mohamed (CodeAlpha Cybersecurity Intern)
   Tool    : Scapy-based packet capture & analysis
   License : For educational purposes only
@@ -43,7 +43,7 @@ def banner():
 {Color.CYAN}{Color.BOLD}
   ╔═══════════════════════════════════════════════════╗
   ║        CodeAlpha — Basic Network Sniffer          ║
-  ║        Task 1 | Cybersecurity Internship          ║
+  ║        Cybersecurity Internship                   ║
   ╚═══════════════════════════════════════════════════╝
 {Color.RESET}""")
 
