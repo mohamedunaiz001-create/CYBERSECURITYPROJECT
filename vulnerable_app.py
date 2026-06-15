@@ -1,8 +1,8 @@
 #!/usr/bin/env python3
 """
 ================================================================
-  task3_vulnerable_app.py
-  CodeAlpha Internship — Task 3: Secure Coding Review
+  vulnerable_app.py
+  Internship — Task 3: Secure Coding Review
   TARGET APPLICATION (Deliberately Vulnerable for Audit)
   ⚠  FOR EDUCATIONAL / LAB USE ONLY — DO NOT DEPLOY  ⚠
 ================================================================
