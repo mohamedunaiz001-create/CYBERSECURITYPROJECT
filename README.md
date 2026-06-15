@@ -17,9 +17,9 @@ text
 ├── task4_nids.py
 |──README.md
 
---
+---
 
-# 🛡️ Task 1: Basic Network Sniffer
+# Basic Network Sniffer
 
 ## Objective
 
@@ -63,7 +63,7 @@ This tool captures packets from a selected network interface and displays detail
 
 ---
 
-# 🔍 Task 3: Secure Coding Review
+# Secure Coding Review
 
 ## Objective
 
@@ -103,7 +103,7 @@ A Flask-based web application was intentionally designed with multiple security 
 
 ---
 
-# 🚨 Task 4: Network Intrusion Detection System (NIDS)
+# Network Intrusion Detection System (NIDS)
 
 ## Objective
 
@@ -156,14 +156,6 @@ The NIDS continuously monitors network traffic, analyzes packets against predefi
 
 ---
 
-# ⚙️ Installation
-
-## Clone Repository
-
-bash
-git clone https://github.com/yourusername/codealpha-cybersecurity.git
-cd codealpha-cybersecurity
-
 
 ## Install Dependencies
 
@@ -174,7 +166,7 @@ pip install scapy flask
 
 # ▶️ Usage
 
-## Task 1 - Network Sniffer
+## Network Sniffer
 
 bash
 sudo python3 task1_network_sniffer.py
@@ -187,7 +179,7 @@ sudo python3 task1_network_sniffer.py -i wlan0
 
 ---
 
-## Task 3 - Vulnerable Application
+## Vulnerable Application
 
 bash
 python3 task3_vulnerable_app.py
@@ -201,7 +193,7 @@ http://localhost:5000
 
 ---
 
-## Task 4 - Network Intrusion Detection System
+## Network Intrusion Detection System
 
 bash
 sudo python3 task4_nids.py
@@ -228,7 +220,7 @@ http://localhost:8080
 
 ---
 
-# 🎯 Internship Outcome
+# Internship Outcome
 
 Through these projects, practical experience was gained in:
 
@@ -242,11 +234,11 @@ These projects demonstrate foundational cybersecurity skills relevant to Securit
 
 ---
 
-# 👨‍💻 Author
+# Author
 
 **Mohamed Unaiz A**
 
-**Role:** CodeAlpha Cybersecurity Intern
+**Role:** Cybersecurity Intern
 
 **Domain:** Cybersecurity
 
