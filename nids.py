@@ -1,8 +1,8 @@
 #!/usr/bin/env python3
 """
 ================================================================
-  CodeAlpha Internship — Task 4: Network Intrusion Detection System
-  Author  : Mohamed (CodeAlpha Cybersecurity Intern)
+  Internship — Task 4: Network Intrusion Detection System
+  Author  : Mohamed (Cybersecurity Intern)
   Engine  : Scapy + Flask live dashboard
   Usage   : sudo python3 task4_nids.py [-i INTERFACE] [-p PORT]
   ⚠  For educational / lab use only  ⚠
