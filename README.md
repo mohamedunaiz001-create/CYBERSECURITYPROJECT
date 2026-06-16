@@ -12,9 +12,9 @@ The objective of these projects is to develop practical cybersecurity skills thr
 #  Project Structure
 
 text
-├── task1_network_sniffer.py
-├── task3_vulnerable_app.py
-├── task4_nids.py
+├── network_sniffer.py
+├── vulnerable_app.py
+├── nids.py
 |──README.md
 
 ---
