@@ -164,7 +164,7 @@ pip install scapy flask
 
 ---
 
-# ▶️ Usage
+# Usage
 
 ## Network Sniffer
 
