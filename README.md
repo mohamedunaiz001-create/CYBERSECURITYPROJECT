@@ -207,7 +207,7 @@ http://localhost:8080
 
 ---
 
-# 🛠 Skills Demonstrated
+# Skills Demonstrated
 
 - Network Security
 - Packet Analysis
